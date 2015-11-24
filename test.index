@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+  <head>
+		<title>Who Am I - A Carter Books Project</title>
+		
+			  <!--- Fonts-->	
+<script src="//use.typekit.net/nop4ozt.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<!--- End Fonts-->
+		
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+		<link href="css/animate.css" rel="stylesheet" media="screen">
+		<link href="css/hover.css" rel="stylesheet" media="screen">
+		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+		<link href="css/my-styles.css" rel="stylesheet" media="screen">
+    	
+		
+		<script
+    src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"
+    type="text/javascript"></script>
+
+<script async type="text/javascript" src="https://www.trycelery.com/js/celery.js"></script>
+		
+				
+
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--    [if lt IE 9]>-->
+<!--
+      <script src="../../assets/js/html5shiv.js"></script>
+      <script src="../../assets/js/respond.min.js"></script>
+-->
+<!--    <![endif]-->
+	</head>
+	
+	 
+	
+	<body class = " snipcart-overwrite">
+		
+		<div class="bg-img"></div>
+		
+<div class="wrapper">		
+	
+	<div class= "container">
+	
+	</div>
+ <!--Navbar -->
+<div class="navbar navbar-default navbar-fixed-top animated slideInDown">
+			
+
+
+	<div class="container">
+		<a class = "logo-text hvr-grow " href = "index.html">CARTER'S BOOKS</a>
+		<a href="index.html"><img class = "main-logo" src = "img/Mascot.png"></a>
+		<div class ="navbar-header">
+			<button type = "button" class = "navbar-toggle" data-toggle="collapse" data-target = ".navbar-collapse">
+				<span class = "sr-only">Toggle navigation</span>
+				<span class = "icon-bar"></span>
+				<span class = "icon-bar"></span>
+				<span class = "icon-bar"></span>
+			</button>
+			
+		</div>
+		<!-- navbar collapse--->
+		<div class = "navbar-collapse collapse">
+				
+			<ul class = "nav navbar-nav text-center">
+				<li> <a class = "hvr-pulse" href = "/who-am-i.html">Who Am I?</a></li>
+				<li> <a class = "hvr-pulse" href = "/author.html">Author</a></li>
+				<li class = "dropdown"> 
+					<a class = "hvr-pulse" href = "/contact.html">Contact</a>
+				</li>
+				<li> <a class = "hvr-bob" href ="https://instagram.com/carterbooks_"><i class="fa fa-instagram"></i></a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+		
+	<!-- Carousel -->
+	
+	
+<div id="book-slider" class="carousel slide" data-ride="carousel">
+  
+ <!-- Wrapper for slides -->
+<!--
+  <div class="carousel-inner animated slideInRight">
+   <div class="item active ">
+    <img id = "book-cover" class = "center-block"src="img/cover-2.png" alt="...">
+   </div>
+   <div class="item">
+     <img id = "book-cover" class = "center-block"src="img/spread-1.png" alt="...">
+   </div>
+  </div>
+-->
+		
+		<!-- Indicators -->
+<!--
+  <ol class="carousel-indicators animated fadeIn">
+    <li data-target="#book-slider" data-slide-to="0" class="active"></li>
+    <li data-target="#book-slider" data-slide-to="1"></li>
+  </ol>
+-->
+<!--</div>  Carousel -->
+	<div class = "fluid-container">
+	<div class = "row">
+<h1 class= "animated fadeIn text-center summary-title"> WHO AM I?</h1>
+			<div class = "col-lg-3"></div>
+			<div class = "col-lg-6">
+				<div class = "col-sm-4"><img id = "book-cover" src = "/img/cover-2.png"></div>
+				<div class = "col-sm-8">
+					<p id = "book-summary"class = "animated fadeIn lead">Jacob has grown confused by the information in school books and taught by teachers. He notices that throughout the pages of history he very rarely sees people that look like him. From this confusion, a question enters Jacob's mind. One which he will ask to the adults in his life and will take him on a journey of awakening.</p>
+				</div>
+			</div>
+			<div class = "col-lg-3"></div>
+		</div>
+</div>
+							
+										
+								<!--Buy Now-->
+	<div class = "container">
+<div class = "text-center animated slideInLeft">
+	<a id ="buy-btn"class="btn btn-default btn-lg lead hvr-pulse-grow" 
+		href="https://shop.trycelery.com/page/557179c4d2331c0a00e45a36" data-celery="557179c4d2331c0a00e45a36" data-celery-version="v2">Purchase Book</a>
+</div>
+<div class = "text-center animated slideInUp">
+	<a id = "learn-btn" class="btn-default lead" href="who-am-i.html">Learn More</a>
+</div>
+		</div>
+<!--End Buy Now-->	
+		
+	
+<!--</div> End of Content-->
+
+		<!--Footer-->
+<div class="footer">
+ <p class = "lead small text-center">Copyright &copy; 2015 Carters Books. All rights reserved</p>
+</div>
+
+	
+ 
+
+<!-- Bootstrap core JavaScript -->
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	</body>
+</html>
+
+
+
+
+
